@@ -28,7 +28,7 @@ def mvtec_classes():
         "screw",
         "tile",
         "toothbrush",
-        "transistor",
+        "transistor_reduced",
         "wood",
         "zipper",
     ]
